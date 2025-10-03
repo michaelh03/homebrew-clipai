@@ -1,6 +1,6 @@
 cask "clipai" do
   version "1.0.0"  # Update with your actual version
-  sha256 "9b6b03de850cce78cbdf816b66847781e1a597bd010242aa8a7af2c42c184e90"  # Calculate this from your .dmg or .zip
+  sha256 "7c9206159c4593ade2130515b961669fe7a6bfb1e0b21ce986faa78aba1147ba"  # Calculate this from your .dmg or .zip
 
   url "https://github.com/michaelh03/ClipAi/releases/download/ClipAi-1.0.0/ClipAi-1.0.0.dmg"
   name "ClipAi"
